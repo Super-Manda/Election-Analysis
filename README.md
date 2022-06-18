@@ -11,12 +11,12 @@ A Colorado Board of Elections employee has assigned me this list of tasks in ord
 
 ## Resources 
 Data Source: 
--election_results.csv
+- election_results.csv
 
 Softwares: 
--Python 3.10 
--Visual Studio Code 
--PyCharm 2022.1
+- Python 3.10 
+- Visual Studio Code 
+- PyCharm 2022.1
 
 ## Summary of the Election Results
 - A total of 369,711 votes were cast in this election.
