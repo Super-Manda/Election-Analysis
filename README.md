@@ -30,9 +30,9 @@ Due to the large size of the dataset and the various means by which the votes re
 - A total of 369,711 votes were cast in this election.
 
 - The contenders were: 
-	-Diana DeGette, 
-	-Charles Casper Stockham, and 
-	-Raymon Anthony Doane.
+	- Diana DeGette, 
+	- Charles Casper Stockham, and 
+	- Raymon Anthony Doane.
 	
 - Denver County had the largest voter turnout.  In terms of the votes from the counties, Denver contributed 82.8% of the votes (306,055 votes).
 - Arapahoe County had the smallest voter turnout, and only contributed 6.7% of the votes (24,801 votes).
