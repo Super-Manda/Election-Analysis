@@ -1,6 +1,8 @@
-# :us: Election Analysis in Python :us:
+# Election Analysis in Python
+
 
 ## Overview of Project 
+🇺🇸
 A Colorado Board of Elections employee initially assigned me this list of tasks in order to certify the election results of a recent local congressional district election that had collected ballots via mail (hand-counted), punch-card (machine counted), and electronic (computer counted) means:
 
 1. Calculate the total number of votes cast;
@@ -10,8 +12,9 @@ A Colorado Board of Elections employee initially assigned me this list of tasks 
 5. Determine the winner of the election based on popular vote.
 6. As the challenge evolved, he also asked for voter turnout information in the counties.  
 
-Due to the large size of the dataset, these findings were performed in Python, shown here: 
+Due to the large size of the dataset and the various means by which the votes returned to Central Office, these findings were performed in Python, shown here: 
 [PYPOLL CHALLENGE CODE](https://github.com/Super-Manda/Election-Analysis/blob/main/PyPoll_CHALLENGE.py)
+
 
 ## Resources 
 **Original Data Source:** 
