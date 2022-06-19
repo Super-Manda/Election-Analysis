@@ -1,7 +1,7 @@
-# Election Analysis in Python
+# :us: Election Analysis in Python :us:
 
 ## Overview of Project 
-A Colorado Board of Elections employee initially assigned me this list of tasks in order to complete the election audit of a recent local congressional district election that had collected ballots via mail, punch-card, and electronic means:
+A Colorado Board of Elections employee initially assigned me this list of tasks in order to certify the election results of a recent local congressional district election that had collected ballots via mail (hand-counted), punch-card (machine counted), and electronic (computer counted) means:
 
 1. Calculate the total number of votes cast;
 2. Get a complete list of candidates who received notes;
@@ -15,8 +15,7 @@ Due to the large size of the dataset, these findings were performed in Python, s
 
 ## Resources 
 **Original Data Source:** 
-- election_results.csv
-[ORIGINAL DATASET CSV FILE](https://github.com/Super-Manda/Election-Analysis/blob/main/Resources/election_results.csv)
+- [election_results.csv](https://github.com/Super-Manda/Election-Analysis/blob/main/Resources/election_results.csv)
 
 **Softwares:** 
 - Python 3.10 
@@ -43,7 +42,8 @@ The candidate results were:
 
 -Diana DeGette won the election by a landslide because she received 272,892 votes (73.8% of the total votes).
 
-The Python terminal prints this out as shown:
+The Python terminal prints this out as shown: 
+
 ![TERMINAL PRINTOUT](https://github.com/Super-Manda/Election-Analysis/blob/main/Analysis/Terminal%20Printout%20of%20Election%20Results.png)
 
 
