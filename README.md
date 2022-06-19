@@ -38,7 +38,7 @@ Due to the large size of the dataset and the various means by which the votes re
 - Arapahoe County had the smallest voter turnout, and only contributed 6.7% of the votes (24,801 votes).
 - Jefferson County contributed 10.5% of the votes (38,855 votes).
 
-The candidate results were:
+- The candidate results were:
   - Diana DeGette garnered 272,892 votes, which represented 73.8% of the total votes in this election.
   - Charles Casper Stockham garnered 85,213 votes, which represented 23.0% of the total votes in this election.
   - Raymon Anthony Doane garnered 11,606 votes, which represented 3.1% of the total votes in the election.  
