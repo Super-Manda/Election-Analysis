@@ -2,7 +2,6 @@
 
 
 ## Overview of Project 
-🇺🇸
 A Colorado Board of Elections employee initially assigned me this list of tasks in order to certify the election results of a recent local congressional district election that had collected ballots via mail (hand-counted), punch-card (machine counted), and electronic (computer counted) means:
 
 1. Calculate the total number of votes cast;
@@ -19,6 +18,7 @@ Due to the large size of the dataset and the various means by which the votes re
 ## Resources 
 **Original Data Source:** 
 - [election_results.csv](https://github.com/Super-Manda/Election-Analysis/blob/main/Resources/election_results.csv)
+
 
 **Softwares:** 
 - Python 3.10 
@@ -55,6 +55,6 @@ The text file summarizes this current audit:
 [TEXT FILE](https://github.com/Super-Manda/Election-Analysis/blob/main/Analysis/election_results.txt)
 
 Furthermore, the election commission can use this script with some modifications for any election.  
-- It could be expanded to other counties and other candidates.  
+- It could be expanded to other counties and other candidates, or to a larger number of them.  
 - The script can be modified to see if voter turnout per county is typical or atypical for a given year.  For example, if it's a presidential election year or if a particular candidate is especially good or bad, it may affect how many voters come out.  In addition, there may be particular demographics or party affiliations who tend to vote more than others in each county.  This would require a historical dataset to be imported and compared to the present dataset. 
-- Earlier in the module, the "datetime" function was used in previous versions of the file, so it would be possible to put that back into the present code so that it can be verified that the original analysis and the "recount" will come up with the same (or nearly the same) numbers in contested elections where the losing candidate is demanding a recount.  In this particular election, it was not necessary because the losing candidates lost by a large margin. 
+- Earlier in the module, the "datetime" function was used in previous versions of the file, so it would be possible to put that back into the present code so that it can be verified that the original analysis and the "recount" will come up with the same (or nearly the same) numbers in contested elections where the losing candidate is demanding a recount.  In this particular election, it was not necessary because the losing candidates lost by a large margin.  
